@@ -1,0 +1,23 @@
+{
+    "meltingpot": {
+      "title": "Melting Pot Landing Page",
+      "description": "Welcome to Melting Pot",
+      "content": "<p>This is the Melting Pot landing page content.</p>"
+    },
+    "vamshi": {
+      "title": "Vamshi Landing Page",
+      "description": "Welcome to Vamshi's page",
+      "content": "<p>This is Vamshi's landing page content.</p>"
+    },
+    "paris": {
+      "title": "Paris Landing Page",
+      "description": "Discover Paris",
+      "content": "<p>Explore the beautiful city of Paris!</p>"
+    },
+    "test": {
+      "title": "Test Landing Page",
+      "description": "This is a test page",
+      "content": "<p>This is a test landing page content.</p>"
+    }
+  }
+  
